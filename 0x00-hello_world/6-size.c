@@ -3,7 +3,7 @@
 /**
  * main - printing the various sizes of various types such as char int and float
  *
- * Return: 0 (success)
+ * Return: 0 success
  *
  */
 
