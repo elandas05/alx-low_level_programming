@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - printing the various sizes of various types such as char int and float
+ * main - printing the various sizes of  char, int, and float
  *
  * Return: 0 success
  */
